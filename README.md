@@ -1,4 +1,4 @@
-<h1 align="center">🏴‍☠️ •.ﾟ°•✩ Soyoudevice®✩•°.ﾟ• </h1> 
+<h1 align="center">•.ﾟ°•✩ Soyoudevice®✩•°.ﾟ• </h1> 
 
 <h3 align="center">
   🏴‍☠️🎀
