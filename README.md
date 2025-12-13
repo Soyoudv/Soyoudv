@@ -9,9 +9,9 @@ prolly listening to music atm :3 <br>
 Ni dieu ni maitre, sans foi ni loi. <br>
 information and education are the keys <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark&#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark#gh-dark-mode-only)
 
 [my discord server](https://discord.gg/KDqFWDSDq6)🐾 <br>
 [guns.lol](https://guns.lol/soyou) <br>
