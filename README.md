@@ -1,17 +1,42 @@
-## 🏴‍☠️ •**ﾟ.°•✩ Soyoudevice®✩•°.ﾟ**• 🎀
-(cute scientist and metalhead) <br>
+<h1 align="center">🏴‍☠️ •**ﾟ.°•✩ Soyoudevice®✩•°.ﾟ**• 🎀</h1> 
 
-prolly listening to music atm :3 <br>
+<p align="center">
+  (cute scientist and metalhead) <br>
+  prolly listening to music atm :3
+</p>
 
-🎨🎹🥁🎚️🎛️ Nnaaahhh~ <br>
+<p align="center">
+  🎨🎹🥁🎚️🎛️ Nnaaahhh~
+</p>
 
-⛧Ⓐ ☭ ⏚  ∞ <br>
-Ni dieu ni maitre, sans foi ni loi. <br>
-information and education are the keys <br>
+<p align="center">
+  ⛧Ⓐ ☭ ⏚  ∞ <br>
+  Ni dieu ni maitre, sans foi ni loi.
+  information and education are the keys
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark&#gh-dark-mode-only)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ocaml,c,powershell,java">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,php,css,js">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,npm,git">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark&#gh-dark-mode-only">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark#gh-dark-mode-only">
+</p>
 
-[my discord server](https://discord.gg/KDqFWDSDq6)🐾 <br>
-[guns.lol](https://guns.lol/soyou) <br>
+<p align="center">
+  <a href=https://discord.gg/KDqFWDSDq6>
+    my discord server🐾
+  </a><br>
+  <a href=https://guns.lol/soyou)>
+    guns.lol
+  </a>
+</p>
