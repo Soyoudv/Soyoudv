@@ -23,13 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ocaml,java,bash,c">
+  <img src="https://skillicons.dev/icons?i=ocaml,c,java,html,css,js,php">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,php,git,css,js">
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,npm,powershell">
+  <img src="https://skillicons.dev/icons?i=git,react,nodejs,npm,powershell,bash">
 </p>
 
 <p align="center">
