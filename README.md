@@ -1,4 +1,8 @@
-<h1 align="center">🏴‍☠️ •**ﾟ.°•✩ Soyoudevice®✩•°.ﾟ**• 🎀</h1> 
+<h1 align="center">🏴‍☠️ •.ﾟ°•✩ Soyoudevice®✩•°.ﾟ• </h1> 
+
+<h3 align="center">
+  🏴‍☠️🎀
+</h3>
 
 <p align="center">
   (cute scientist and metalhead) <br>
@@ -9,8 +13,11 @@
   🎨🎹🥁🎚️🎛️ Nnaaahhh~
 </p>
 
+<h3 align="center">
+  ⛧Ⓐ ☭ ⏚  ∞
+</h3>
+
 <p align="center">
-  ⛧Ⓐ ☭ ⏚  ∞ <br>
   Ni dieu ni maitre, sans foi ni loi.
   information and education are the keys
 </p>
