@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark&#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark">
 </p>
 
 <p align="center">
