@@ -40,7 +40,7 @@
   <a href=https://discord.gg/KDqFWDSDq6>
     my discord server🐾
   </a><br>
-  <a href=https://guns.lol/soyou)>
+  <a href=https://guns.lol/soyou>
     guns.lol
   </a>
 </p>
