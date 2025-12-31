@@ -1,7 +1,7 @@
 <h1 align="center">•.ﾟ°•✩ Soyoudevice®✩•°.ﾟ• </h1> 
 
 <h3 align="center">
-  🏴‍☠️🎀
+  🏴‍☠️🎀🏳️‍⚧️
 </h3>
 
 <p align="center">
