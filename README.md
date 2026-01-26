@@ -43,4 +43,7 @@
   <a href=https://guns.lol/soyou>
     guns.lol
   </a>
+  <a href=https://www.karde.me/soyou>
+    karde.me
+  </a>
 </p>
