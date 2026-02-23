@@ -6,7 +6,7 @@
 
 <p align="center">
   (cute scientist and metalhead) <br>
-  prolly listening to music atm :3
+  prolly playing noob le jeu atm :3
 </p>
 
 <p align="center">
