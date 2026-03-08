@@ -1,12 +1,11 @@
-<h1 align="center">•.ﾟ°•✩ Soyoudevice®✩•°.ﾟ• </h1> 
+<h1 align="center">Soyoudevice®</h1> 
 
 <h3 align="center">
   🏴‍☠️🎀
 </h3>
 
 <p align="center">
-  (cute scientist and metalhead) <br>
-  prolly playing noob le jeu atm :3
+  internet cat :3 <br>
 </p>
 
 <p align="center">
@@ -30,13 +29,6 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,react,nodejs,npm,powershell">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyoudv&show_icons=true&theme=dark">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoudv&layout=compact&theme=dark">
 </p>
 
 <p align="center">
