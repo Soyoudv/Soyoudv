@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ocaml,bash,js">
+  <img src="https://skillicons.dev/icons?i=ocaml,bash,js,py">
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,html,css,php">
